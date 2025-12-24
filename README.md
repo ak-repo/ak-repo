@@ -1,79 +1,115 @@
 # 👋 Hi, I'm Ananda Krishnan
 
-🚀 **Full-Stack Developer | Go & JavaScript Specialist | Building Scalable and Performant Web Systems**
+🚀 **Golang Backend Engineer | Distributed Systems | Scalable Web Platforms**
 
-I'm a self-driven developer passionate about creating efficient, secure, and user-friendly web applications.  
-Currently focused on building full-stack products using **React (frontend)** and **Go (Gin)** for backend APIs, while also exploring **DevOps** practices for better deployment and scalability.
+I am a backend-focused software engineer specializing in **Go (Golang)** and modern backend architectures.  
+I design and build **high-performance, scalable, and production-ready systems**, with hands-on experience in **microservices, real-time communication, cloud storage, and database-intensive applications**.
 
----
-
-### 💡 About Me
-- 💻 Building production-ready web apps using **React** and **Go (Gin)**  
-- ⚙️ Experienced in designing **RESTful APIs**, **database modeling**, and **authentication systems**  
-- 🧠 Passionate about **system design**, **code optimization**, and **problem-solving**  
-- 🛠️ Currently developing:
-  - **E-commerce backend** in Go (Gin + GORM)
-  - **Admin frontend** in React
-  - **CodeCanvas blog** in Django
+My work emphasizes **clean architecture, system reliability, performance optimization, and developer-friendly APIs**.
 
 ---
 
-### 🧠 Preferred Languages
-- 🟨 **JavaScript** – for dynamic frontend and full-stack logic  
-- 🟦 **Go (Golang)** – for fast, scalable, and concurrent backend systems  
+## 🧠 Professional Focus
+- Backend engineering with **Go (Gin, Fiber)**
+- **Microservices & Distributed Systems**
+- **gRPC, WebSockets, Message-driven architectures**
+- Database design, performance tuning, and ACID-safe transactions
+- Production-ready DevOps workflows with Docker
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Core Tech Stack
 
-#### 🖥️ Frontend
-- **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript  
-- **Frameworks/Libraries:** React, Redux, TailwindCSS, Bootstrap  
-- **Skills:** Responsive Design, API Integration, State Management, Component Architecture  
+### ⚙️ Backend
+- **Language:** Go (Primary), Python (Secondary)
+- **Frameworks:** Gin, Fiber
+- **Communication:** REST, gRPC, WebSockets
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Caching / Messaging:** Redis
+- **Storage:** MinIO (S3-compatible object storage)
+- **Auth:** JWT, Session-based authentication
+- **Architecture:** Clean Architecture, Service Layer, API Gateway Pattern
 
-#### ⚙️ Backend
-- **Primary:** Go (Gin Framework), Python (Django & DRF)  
-- **Database ORM:** GORM (Go), Django ORM  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Other Backend Skills:**
-  - Authentication & Authorization (JWT / Session)
-  - Middleware & Routing
-  - File Handling & Uploads
-  - RESTful API Design & Versioning
-  - Clean Architecture & Service Layer Design
-
-#### ☁️ DevOps / Tools
-- Docker, Git, GitHub Actions, Nginx  
-- Linux (Manjaro KDE), VS Code, Postman  
-- Basic CI/CD pipelines and cloud deployment (DigitalOcean, Render)
+### ☁️ DevOps & Tooling
+- Docker, Docker Compose
+- Git, GitHub Actions (CI/CD basics)
+- Linux (Manjaro KDE)
+- Nginx
+- Postman, VS Code
 
 ---
 
-### 🧩 Featured Projects
+## 🧩 Featured Projects
 
-#### 🛍️ E-Commerce Backend (Go + Gin)
-- RESTful APIs for products, categories, orders, and authentication  
-- Implemented clean architecture and database models using **GORM**  
-- Includes admin and customer modules  
+### 🚀 StreamHub  
+**Real-Time Chat, Notifications & Cloud Storage Platform**
 
-#### 🧾 E-Commerce Frontend (React)
-- Built the frontend interface with **React + TailwindCSS**  
-- Integrated authentication, CRUD operations, and admin functionality  
-- Responsive, modular, and API-connected design  
+**Tech Stack:**  
+Go (Fiber), gRPC, Redis, MinIO, PostgreSQL, Docker, WebSockets
 
-#### 📰 CodeCanvas Blog (Django)
-- Developer-focused blog with responsive UI and dark mode  
-- Markdown support, admin panel, and sidebar navigation  
-- Backend powered by **Django REST Framework**
+**Key Contributions:**
+- Architected a **modular microservices ecosystem** consisting of:
+  - Authentication Service  
+  - Chat Service  
+  - File Storage Service  
+  - API Gateway
+- Implemented **low-latency gRPC-based service-to-service communication** for internal workflows.
+- Built a **real-time communication layer** using WebSockets with:
+  - Room-based messaging
+  - Broadcast support
+  - Auto-reconnect handling
+- Developed a **secure file storage service** with:
+  - Chunked uploads
+  - UUID-based file naming
+  - MIME type metadata extraction
+  - Fine-grained access controls
+- Designed a **persistent message store** using PostgreSQL with:
+  - Optimized indexing
+  - Transaction-safe schemas
+- Added **centralized logging**, structured error handling, and panic recovery middleware.
+- Fully **containerized all services using Docker Compose**, ensuring environment parity across development and deployment.
 
 ---
 
+### 🛍️ FRESHBOX – E-Commerce Platform (Live Project)
 
+**Backend:** Go (Gin)  
+**Frontend:** React + Redux Toolkit  
+**Database:** PostgreSQL
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/anandakrish)  
-- 📧 **tech.anandakrishnan@gmail.com**
+**Backend Highlights:**
+- Developed a **monolithic backend** handling:
+  - Product catalog
+  - Cart & checkout
+  - Order management
+  - Authentication
+- Improved **database performance by ~40%** through:
+  - Indexing hot columns
+  - Optimizing JOIN-heavy queries
+- Implemented **atomic PostgreSQL transactions** to ensure:
+  - ACID compliance
+  - Safe order processing
+  - Consistent stock updates
+
+**Frontend Highlights:**
+- Built a **responsive React frontend**
+- Used **Redux Toolkit** for predictable and scalable state management
+- Integrated secure authentication and API-driven workflows
 
 ---
 
-⭐ _“Code. Learn. Repeat.”_
+## 🧠 What I Care About
+- Writing **clean, maintainable Go code**
+- Designing systems that **scale under load**
+- Understanding problems deeply before implementing solutions
+- Continuous learning in **distributed systems and backend internals**
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/anandakrish
+- 📧 Email: tech.anandakrishnan@gmail.com
+
+---
+
+⭐ *“Build systems that last, not just code that runs.”*
