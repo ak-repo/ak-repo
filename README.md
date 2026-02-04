@@ -39,4 +39,4 @@ Primary interests include **microservices, real-time systems, database-intensive
 
 ## Contact
 - **LinkedIn:** https://linkedin.com/in/anandakrish  
-- **Email:** anandakrishnan.work1@gmail.com
+- **Email:** anandakrishnan062@gmail.com
