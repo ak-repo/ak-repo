@@ -24,5 +24,5 @@ Building backend systems and exploring **scalable service architectures using Go
 
 ### Contact
 
-* LinkedIn: https://linkedin.com/in/anandakrish
+* LinkedIn: https://linkedin.com/in/ananda-krishnan-13bb30366
 * Email: [anandakrishnan062@gmail.com](mailto:anandakrishnan062@gmail.com)
