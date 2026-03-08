@@ -1,23 +1,28 @@
-# Ananda Krishnan  
-**Backend Engineer (Go) | Distributed Systems | Scalable Systems**
+# Ananda Krishnan
 
-Backend-focused software engineer specializing in **Go (Golang)** with experience building **reliable, scalable, production-grade backend systems**.
+Backend Engineer specializing in **Go (Golang)**, focused on building **reliable, scalable backend systems and distributed architectures**.
 
-Primary interests include **microservices, real-time systems, database-intensive applications, and cloud-native architectures**, with a strong focus on **clean code, performance, and system reliability**.
-
----
-
-## Technical Focus
-- Backend development using **Go (Gin, Fiber)**
-- Microservices and distributed systems
-- REST, gRPC, and WebSocket-based communication
-- Relational databases, transactions, and performance tuning
-- Containerized development with Docker
-
- 
+I primarily work on **backend infrastructure, API systems, and database-intensive services**, with an emphasis on **system design, performance, and maintainable codebases**.
 
 ---
 
-## Contact
-- **LinkedIn:** https://linkedin.com/in/anandakrish  
-- **Email:** anandakrishnan062@gmail.com
+### Engineering Interests
+
+* Distributed systems & service-oriented architectures
+* High-performance backend services in Go
+* API design (REST / gRPC)
+* Data-intensive applications and transactional systems
+* Reliability, observability, and production-grade systems
+
+---
+
+### Current Focus
+
+Building backend systems and exploring **scalable service architectures using Go**.
+
+---
+
+### Contact
+
+* LinkedIn: https://linkedin.com/in/anandakrish
+* Email: [anandakrishnan062@gmail.com](mailto:anandakrishnan062@gmail.com)
