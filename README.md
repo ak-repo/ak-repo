@@ -14,26 +14,7 @@ Primary interests include **microservices, real-time systems, database-intensive
 - Relational databases, transactions, and performance tuning
 - Containerized development with Docker
 
----
-
-## Tech Stack
-
-### Backend & Systems
-- **Languages:** Go (primary), Python  
-- **Frameworks:** Gin, Fiber  
-- **APIs & Protocols:** REST, gRPC, WebSockets  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Caching / Messaging:** Redis  
-- **Object Storage:** MinIO (S3-compatible)  
-- **Authentication:** JWT, session-based authentication  
-- **Architecture:** Clean Architecture, Service Layer, API Gateway
-
-### DevOps & Tooling
-- Docker, Docker Compose  
-- Git, GitHub Actions (CI/CD basics)  
-- Linux (Manjaro KDE)  
-- Nginx  
-- Postman, VS Code  
+ 
 
 ---
 
